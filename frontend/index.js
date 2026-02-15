@@ -7,3 +7,4 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+// Lol this is the frontend changes that i need to push to the remote repository
